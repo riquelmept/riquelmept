@@ -8,11 +8,11 @@
 
 </h4>
 
-Eu sou apaixonado por tecnologia! Atuo na área de T.I deste pequeno, auxiliando a empresa de T.I do meu pai, e sempre fui cativado em manutenção de hardware e software. Desde então, descobri um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e a proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro visandoadquirir novas experiências e ampliar meu conhecimento. Vejo que a área da programação está sempre se atualizando em Hardware, Software e por isso, nunca é suficiente os estudos e sempre busco me manter atualizado em recursos das linguagens de programação.
+Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I desde pequeno quando acompanhava meu pai com sua empresa. Agora, busco expandir meus conhecimentos nas áreas de hardware e software, aprendendo mais quanto à lingugagens de programação e arquitetura de computadores. Busco minha primeira oportunidade no mercado.
 
 Atualmente, estou desenvolvendo um pequeno projeto para gerenciar as datas das manutenções junto e as ordens de manutenção dos equipamentos de uma indústria fabricante de latas. Também está em progresso o desenvolvimento um projeto de software para gerenciamento de atendimentos da equipe de T.I, para uma empresa terceirizada de uma distribuidora de medicamentos na região.
 
-Tenho conhecimento em: JavaScript, TypeScript, Node.js, AWS, Matlab, SCILAB, PHP, R, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows.
+Tenho conhecimento em: JavaScript, TypeScript, Node.js, AWS, Matlab, SCILAB, PHP, R, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
 
 A tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
 
