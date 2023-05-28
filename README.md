@@ -51,5 +51,5 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riquelmept&theme=dark)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riquelmept&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riquelmept&theme=dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=riquelmept&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riquelmept&theme=dark&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
 | :-: | :-: |
