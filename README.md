@@ -25,7 +25,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
     </td>
     <td style="border: 0";>
       <p>
-        💻 Estudante de Engenharia de Controle e Automação, atuante nas áreas de T.I, PCM e Desenvolvimento.
+        💻 Estudante de Engenharia de Controle e Automação, atuante nas áreas de T.I, PCM e Desenvolvimento. Atualmente, estou desenvolvendo um pequeno projeto para gerenciar as datas das manutenções junto e as ordens de manutenção dos equipamentos de uma indústria fabricante de latas. Também está em progresso o desenvolvimento um projeto de software para gerenciamento de atendimentos da equipe de T.I, para uma empresa terceirizada de uma distribuidora de medicamentos na região.
       </p>
       <p>
         🌙 Realizo projetos na área da Robótica, Automação, Análise de Dados e tenho buscado capacitação para me tornar um Desenvolvedor de Software. 
