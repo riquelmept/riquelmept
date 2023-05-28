@@ -57,7 +57,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
   </tr>
 </table>
 
-| ![riquelmept's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riquelmept&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riquelmept&theme=dark) |
+| ![riquelmept's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riquelmept&theme=dark) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riquelmept&theme=dark&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
