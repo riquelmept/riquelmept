@@ -8,16 +8,6 @@
 
 </h4>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
 Eu sou apaixonado por tecnologia! Atuo na área de T.I deste pequeno, auxiliando a empresa de T.I do meu pai, e sempre fui cativado em manutenção de hardware e software. Desde então, descobri um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e a proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro visandoadquirir novas experiências e ampliar meu conhecimento. Vejo que a área da programação está sempre se atualizando em Hardware, Software e por isso, nunca é suficiente os estudos e sempre busco me manter atualizado em recursos das linguagens de programação.
 
 Atualmente, estou desenvolvendo um pequeno projeto para gerenciar as datas das manutenções junto e as ordens de manutenção dos equipamentos de uma indústria fabricante de latas. Também está em progresso o desenvolvimento um projeto de software para gerenciamento de atendimentos da equipe de T.I, para uma empresa terceirizada de uma distribuidora de medicamentos na região.
@@ -29,6 +19,15 @@ A tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos aju
 Me chame para uma conversa, estou sempre aberto para aprender coisas novas e discutir idéias malucas. Você pode me alcançar em patrick.riquelme@hotmail.com
 
 O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porque ama o que está atrás dele. - G. K. Chesterton
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
