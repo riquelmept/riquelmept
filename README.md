@@ -27,6 +27,12 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="arduino" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+  <img align="center"a  alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center"a  alt="java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center"a alt="matlab" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+  
+  
 </div>
 
 <table border="0" cellspacing="0" cellpadding="0">
