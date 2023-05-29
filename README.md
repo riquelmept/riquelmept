@@ -37,7 +37,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://img8bit.com/uploads/6473f6f0f0b9e-8bit-Effect/My-img8bit-com-Effect.gif" />
+      <img width="400" src="https://img8bit.com/uploads/6473fa826a0de-8bit-Effect/My-img8bit-com-Effect.gif" />
     </td>
     <td style="border: 0";>
       <p>
