@@ -59,7 +59,8 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
         </li>
       </ul>
     </td>
-  </tr>
+  </tr>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 </table>
 
 | ![riquelmept's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&layout=compact&theme=dark&hide_border=true) |
