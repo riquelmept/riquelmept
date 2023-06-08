@@ -63,6 +63,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
 
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&layout=compact&theme=dark&hide_border=true) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark)
+| ![](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true)| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&layout=compact&theme=dark&hide_border=true) |
+| :-: | :-: |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark)
 
