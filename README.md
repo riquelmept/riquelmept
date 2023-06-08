@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👨🏻‍💻
+# Olá, me chamo Patrick Coelho 👨🏻‍💻
 
 <h4 align="center">
 
@@ -63,7 +63,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
 
 </table>
 
-| ![](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true)| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&layout=compact&theme=dark&hide_border=true) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark)| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&layout=compact&theme=dark&hide_border=true) |
 |:-:|:-:|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riquelmept&theme=dark&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+| ![](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riquelmept&theme=dark&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
 
