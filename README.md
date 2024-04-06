@@ -8,7 +8,7 @@
 
 </h4>
 
-Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I desde pequeno quando acompanhava meu pai com sua empresa. Agora, busco expandir meus conhecimentos nas áreas de hardware e software, aprendendo mais quanto à lingugagens de programação e arquitetura de computadores. Busco minha primeira oportunidade no mercado.
+Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Gosto de utilizar a a programação para otimizar tarefas e demandas de rotina. Atualmente atuo na Manutenção Corporativa da Louis Dreyfus Company.
 
 Tenho conhecimento em: JavaScript, TypeScript, Node.js, AWS, Matlab, SCILAB, PHP, R, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
 
