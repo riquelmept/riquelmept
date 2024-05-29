@@ -10,7 +10,7 @@
 
 Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Gosto de utilizar a a programação para otimizar tarefas e demandas de rotina. Atualmente atuo no setor de Manutenção Corporativa da Louis Dreyfus Company.
 
-Tenho conhecimento em: Python, MatLab, JavaScript, TypeScript, Node.js, AWS, Matlab, SCILAB, PHP, R, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
+Tenho conhecimento em: Python, MatLab, JavaScript, TypeScript, Node.js, AWS, SCILAB, PHP, R, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
 
 A tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
 
