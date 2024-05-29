@@ -8,9 +8,9 @@
 
 </h4>
 
-Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Gosto de utilizar a a programação para otimizar tarefas e demandas de rotina. Atualmente atuo na Manutenção Corporativa da Louis Dreyfus Company.
+Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Gosto de utilizar a a programação para otimizar tarefas e demandas de rotina. Atualmente atuo no setor de Manutenção Corporativa da Louis Dreyfus Company.
 
-Tenho conhecimento em: JavaScript, TypeScript, Node.js, AWS, Matlab, SCILAB, PHP, R, Python, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
+Tenho conhecimento em: Python, MatLab, JavaScript, TypeScript, Node.js, AWS, Matlab, SCILAB, PHP, R, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
 
 A tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
 
@@ -20,6 +20,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"a alt="matlab" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,7 +28,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="arduino" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img align="center"a  alt="java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center"a alt="matlab" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+
   
   
 </div>
@@ -39,7 +40,7 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
     </td>
     <td style="border: 0";>
       <p>
-        💻 Estudante de Engenharia de Controle e Automação e Análise e Desenvolvimento de Sistemas, atuante nas áreas de T.I, Manutenção Industrial e Excelência Operacional. 
+        💻 Estudante de Engenharia de Controle e Automação e Análise e Desenvolvimento de Sistemas, atuante nas áreas de T.I e Manutenção Industrial. 
       </p>
       <p>
         🌙 Realizo projetos na área da Robótica, Automação, Análise de Dados e tenho visado ferramentas para otimizar tarefas de rotina como também tratamento de dados para relatórios industriais. 
